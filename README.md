@@ -1,5 +1,5 @@
-Scripts and files used to help determine where limitations should be set for contracts and documents in Dash Platform so that attack vectors are protected against and the platform performs optimally.
+This repository contains scripts and files used to help determine where limitations should be set for contracts and documents in Dash Platform so that attack vectors are protected against and the platform performs optimally.
 
-The generate-docs-and-contracts file is a set of scripts that generate long and complex document and contract JSON schemas that would take a long time to write manually.
+The generate-docs-and-contracts file is a set of scripts that generate various and sometimes complex document and contract JSON schemas that may otherwise take a long time to write manually.
 
-Additionally, there are a set of documents and contracts that have been used already for testing.
+Additionally, there is a set of Javascript scripts that are ready to be used with the Dash JavaScript SDK to submit documents and register contracts using the JSON schemas generated in generate-docs-and-contracts.
